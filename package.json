@@ -4,6 +4,7 @@
   "description": "Programa para registrar el nivel de servicio recibido en CooprofesoresUN",
   "main": "index.js",
   "scripts": {
+    "start":"node src/index.js",
     "dev": "nodemon src/index.js --exec babel-node"
   },
   "keywords": [],
